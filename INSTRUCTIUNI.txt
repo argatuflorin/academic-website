@@ -1,0 +1,7 @@
+SITE ACADEMIC FLORIN-CIPRIAN ARGATU
+
+Dezarhivează pachetul. Încarcă toate fișierele și folderul assets în rădăcina depozitului argatuflorin/academic-website. Nu încărca arhiva ZIP sau folderul exterior.
+
+După Commit changes, activează Settings > Pages > Deploy from a branch > main > / (root) > Save.
+
+Adresa: https://argatuflorin.github.io/academic-website/index.html
